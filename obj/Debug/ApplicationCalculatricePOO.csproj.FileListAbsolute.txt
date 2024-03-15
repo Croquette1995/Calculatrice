@@ -1,0 +1,20 @@
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\bin\Debug\ApplicationCalculatricePOO.exe.config
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\bin\Debug\ApplicationCalculatricePOO.exe
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\bin\Debug\ApplicationCalculatricePOO.pdb
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.csproj.AssemblyReference.cache
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.Form1.resources
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.Properties.Resources.resources
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.csproj.GenerateResource.cache
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.csproj.CoreCompileInputs.cache
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.exe
+C:\Users\Coren\OneDrive\Bureau\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.pdb
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.csproj.AssemblyReference.cache
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.Form1.resources
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.Properties.Resources.resources
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.csproj.GenerateResource.cache
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.csproj.CoreCompileInputs.cache
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\bin\Debug\ApplicationCalculatricePOO.exe.config
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\bin\Debug\ApplicationCalculatricePOO.exe
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\bin\Debug\ApplicationCalculatricePOO.pdb
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.exe
+C:\Users\Coren\Nextcloud\Bac Info\BAC 1\Principes Algorithmiques Et Programmation\ApplicationsVisualStudio\ApplicationCalculatricePOO\obj\Debug\ApplicationCalculatricePOO.pdb
